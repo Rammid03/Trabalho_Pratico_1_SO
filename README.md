@@ -1,8 +1,9 @@
 # Trabalho_Pratico_1_SO
 
-Como compilar e executar:
-
+Como compilar (digitar o seguinte no terminal):
 gcc -o banqueiro banqueiro.c -pthread
+
+Como executar (também no terminal):
 ./banqueiro 10 5 7
 
 Funcionalidade:
