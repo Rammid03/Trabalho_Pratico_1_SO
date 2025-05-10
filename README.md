@@ -3,6 +3,7 @@
 Como compilar e executar:
 
 gcc -o banqueiro banqueiro.c -pthread
+
 ./banqueiro 10 5 7
 
 Funcionalidade:
